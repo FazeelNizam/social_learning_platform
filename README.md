@@ -12,6 +12,6 @@ In this project created a full Realtime Chat Application. Using React on the fro
 - Clone the repository to your local machine using Git:
 
 ```sh
-git clone https://github.com/FazeelNizam/MobileOSKernel
+git clone https://github.com/FazeelNizam/social_learning_platform
 ```
 - run ```npm i && npm start``` for both client and server side to start the development server
